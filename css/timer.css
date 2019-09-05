@@ -1,0 +1,103 @@
+#countholder .link{
+  margin-top: 12px;
+}
+ 
+#countholder a{
+  display: inline-block;
+  color: #fff;
+  font-size: 20px;
+  padding: 20px;
+  background: #265;
+  border-radius: 10px;
+  text-decoration: none;
+}
+ 
+#countholder a:hover{
+  background: #487;
+}
+ 
+#countholder{
+ font-family: sans-serif;
+ color: #fff;
+ float:none;
+ font-weight: 100;
+ text-align: center;
+ font-size: 48px;
+ background-color:transparent;
+ padding:12px;
+ border-radius: 6px;
+ margin-bottom:24px;
+ line-height: 1;
+}
+ 
+ 
+#countholder > div{
+ padding: 4px 10px;
+ border-radius: 4px;
+ background: transparent;
+ display: inline-block;
+}
+ 
+#countholder div > span{
+ border-radius: 4px;
+ background: transparent;
+ display: inline-block;
+}
+ 
+#countholder .smalltext{
+ padding-top: 0;
+ font-size: 16px;
+}
+
+.on-air {display:none;}
+.off-air {display:block;}
+#countholder .link{
+  margin-top: 12px;
+}
+ 
+#countholder a{
+  display: inline-block;
+  color: #fff;
+  font-size: 20px;
+  padding: 20px;
+  background: #265;
+  border-radius: 10px;
+  text-decoration: none;
+}
+ 
+#countholder a:hover{
+  background: #487;
+}
+ 
+#countholder{
+ font-family: sans-serif;
+ color: #fff;
+ float:none;
+ font-weight: 100;
+ text-align: center;
+ font-size: 48px;
+ background-color: transparent;
+ padding:12px;
+ border-radius: 6px;
+ margin-bottom:24px;
+ line-height: 1;
+}
+ 
+ 
+#countholder > div{
+ padding: 4px 10px;
+ border-radius: 4px;
+ background: transparent;
+ display: inline-block;
+}
+ 
+#countholder div > span{
+ border-radius: 4px;
+ background: transparent;
+ display: inline-block;
+}
+ 
+#countholder .smalltext{
+ padding-top: 0;
+ font-size: 16px;
+}
